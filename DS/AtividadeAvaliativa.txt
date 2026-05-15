@@ -1,0 +1,38 @@
+Atividade — Programação Orientada a Objetos em PHP 
+    Sistema de Cadastro de Produtos 
+    Uma loja deseja criar um pequeno sistema para cadastrar produtos e exibir suas 
+informações. 
+    Você deverá desenvolver uma classe em PHP chamada Produto utilizando os conceitos 
+    de Programação Orientada a Objetos (POO). 
+Requisitos da atividade 
+    A classe deverá possuir: 
+
+    Atributos 
+        ● nome 
+        ● preço 
+        ● quantidade 
+
+    Método construtor 
+        O construtor deverá receber os valores dos atributos no momento da criação do objeto. 
+        Exemplo: 
+        $produto1 = new Produto("Teclado", 150, 3); 
+
+Métodos 
+    Crie os seguintes métodos: 
+        exibirInformacoes() 
+        Mostra: 
+            ● nome do produto 
+            ● preço 
+            ● quantidade em estoque 
+        calcularTotalEstoque() 
+            Retorna o valor total do estoque daquele produto. 
+        Fórmula: 
+            preço × quantidade 
+
+O que deve ser feito 
+    1. Criar a classe Produto 
+    2. Implementar o método construtor 
+    3. Criar os métodos solicitados 
+    4. Criar pelo menos 2 objetos 
+    5. Exibir as informações dos produtos 
+    6. Mostrar o valor total em estoque de cada produto
