@@ -1,0 +1,57 @@
+🟢 Atividade 1 — Contagem Simples
+
+Faça um programa que mostre os números de 1 até 10 utilizando for.
+
+🟢 Atividade 2 — Contagem Regressiva
+
+Faça um programa que mostre os números de 10 até 1.
+
+🟢 Atividade 3 — Números Pares
+
+Mostre apenas os números pares de 0 até 20.
+
+🟢 Atividade 4 — Números Ímpares
+
+Mostre apenas os números ímpares de 1 até 15.
+
+🟢 Atividade 5 — Tabuada
+
+Crie a tabuada do número 7.
+
+Exemplo:
+7 x 1 = 7
+7 x 2 = 14
+🟢 Atividade 6 — Soma dos Números
+
+Faça um programa que some os números de 1 até 100 e mostre o resultado final.
+
+🟢 Atividade 7 — Mostrar Quadrados
+
+Mostre o quadrado dos números de 1 até 10.
+
+Exemplo:
+1² = 1
+2² = 4
+3² = 9
+🟢 Atividade 8 — Mostrar uma Mensagem
+
+Mostre a frase:
+
+"PHP é legal!"
+
+10 vezes utilizando for.
+
+🟢 Atividade 9 — Média de Notas
+
+Crie um programa que:
+
+repita 5 vezes
+peça uma nota
+some as notas
+mostre a média final
+🟢 Atividade 10 — Multiplicação
+
+Faça um programa que multiplique todos os números de 1 até 5.
+
+Exemplo:
+1 x 2 x 3 x 4 x 5
