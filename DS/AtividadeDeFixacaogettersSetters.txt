@@ -1,0 +1,105 @@
+🟢 Atividade 1 — Classe Pessoa
+
+Crie uma classe Pessoa com:
+
+Atributos privados:
+    nome
+    idade
+Métodos:
+    setNome()
+    getNome()
+    setIdade()
+    getIdade()
+
+Depois:
+
+cadastre uma pessoa
+mostre os dados na tela
+altere os dados e depois mostre novamente
+
+🟢 Atividade 2 — Classe Produto
+
+Crie uma classe Produto.
+
+Atributos privados:
+    nome
+    preco
+Métodos:
+    setters e getters
+
+Depois:
+
+cadastre um produto
+mostre o nome e o preço
+altere os dados e depois mostre novamente
+
+🟢 Atividade 3 — Classe Aluno
+
+Crie uma classe Aluno.
+
+Atributos privados:
+    nome
+    nota
+Regras:
+    a nota deve ser entre 0 e 10
+Métodos:
+    setters e getters
+
+Depois:
+    cadastre um aluno
+    exiba os dados do aluno
+    altere os dados e depois mostre novamente
+
+🟢 Atividade 4 — Classe Conta Bancária
+
+Crie uma classe ContaBancaria.
+
+Atributos privados:
+    titular
+    saldo
+Métodos:
+    depositar()
+    sacar()
+    getSaldo()
+Regras:
+    não permitir saque maior que o saldo
+    não depositar valores negativos
+Depois:
+    cadastre um cliente
+    exiba os dados do aluno
+    altere os dados e depois mostre novamente
+
+🟢 Atividade 5 — Classe Carro
+
+Crie uma classe Carro.
+
+Atributos privados:
+    marca
+    modelo
+    velocidade
+Métodos:
+    acelerar()
+    frear()
+    getters e setters
+Regras:
+    velocidade não pode ser negativa
+Depois:
+    cadastre um carro
+    exiba os dados do aluno
+    altere os dados e depois mostre novamente
+
+🟢 Atividade 6 — Classe Funcionário
+
+Crie uma classe Funcionario.
+
+Atributos privados:
+    nome
+    salario
+Métodos:
+    getters e setters
+Regra:
+    salário não pode ser menor que 0
+Depois:
+    cadastre um funcinário
+    exiba os dados do aluno
+    altere os dados e depois mostre novamente
