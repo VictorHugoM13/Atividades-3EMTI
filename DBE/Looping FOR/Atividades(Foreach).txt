@@ -1,0 +1,67 @@
+Atividades PHP — Looping foreach
+
+1. Mostrar nomes na tela
+
+    Crie um array com 5 nomes e use foreach para mostrar cada nome em uma linha.
+
+    Exemplo de saída:
+
+        Ana
+        Carlos
+        João
+        Maria
+        Pedro
+
+2. Mostrar números do array
+
+    Crie um array com os números:
+
+        10, 20, 30, 40, 50
+
+    Use foreach para mostrar todos os números.
+
+3. Somar valores do array
+
+    Crie um array com 5 números inteiros e use foreach para calcular a soma total.
+
+        Exemplo:
+
+        Soma total: 150
+
+4. Mostrar frutas
+
+    Crie um array com nomes de frutas e exiba a frase:
+
+        Eu gosto de maçã
+        Eu gosto de banana
+        Eu gosto de uva
+
+    Usando foreach.
+
+5. Mostrar apenas números pares
+
+    Crie um array com números de 1 a 10 e use foreach para mostrar apenas os números pares.
+
+6. Calcular média
+
+    Crie um array com 4 notas e use foreach para calcular a média.
+
+    Exemplo de saída:
+
+    Média: 7.5
+
+7. Contar elementos do array
+
+    Crie um array com nomes de cidades e use foreach para contar quantos elementos existem no array.
+
+8. Multiplicar valores por 2
+
+    Crie um array com números inteiros e use foreach para mostrar cada número multiplicado por 3.
+
+9. Lista de alunos
+
+    Crie um array com nomes de alunos e use foreach para mostrar:
+
+        Aluno: Lucas
+        Aluno: Fernanda
+        Aluno: Rafael
