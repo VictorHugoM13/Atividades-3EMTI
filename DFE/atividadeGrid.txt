@@ -1,0 +1,51 @@
+Atividades – Bootstrap Grid 
+
+Atividade 1 – Três Colunas Iguais
+
+    Crie uma página com:
+
+    Um .container-fluid
+    Uma linha
+    3 colunas iguais
+
+    Cada coluna deve ter:
+
+        Cor de fundo diferente
+        Texto centralizado
+        Borda
+
+Atividade 2 – Duas Colunas Diferentes
+
+    Monte uma linha com:
+
+        Uma coluna ocupando 8 espaços
+        Outra coluna ocupando 4 espaços
+
+    Conteúdo:
+
+        Cor de fundo diferente
+        Texto centralizado
+        Borda
+
+
+Atividade 3 – Layout de Site
+
+Crie a estrutura abaixo:
+
+    Cabeçalho
+    Menu lateral
+    Conteúdo principal
+    Rodapé
+
+📌 Organização:
+
+    Cabeçalho → col-12
+    Menu → col-3
+    Conteúdo → col-9
+    Rodapé → col-12
+
+    Conteúdo:
+
+        Cor de fundo diferente
+        Texto centralizado
+        Borda
