@@ -1,0 +1,69 @@
+Planejamento da Landing Page e Criação da Marca
+Objetivo
+Nesta atividade, cada grupo (trio ou individual) irá criar uma marca fictícia e planejar uma Landing Page para divulgar seu produto, serviço ou empresa.
+
+1º Entrega - Documentação contendo as etapas seguintes:
+
+Enviar para o e-mail: victor.hugo.silva@educacao.mg.gov.br
+    Assunto do e-mail: Doc landing page
+    A documentação deve conter o nome de todos do grupo
+
+
+Etapa 1 — Criação da Marca
+    Cada grupo deverá definir os seguintes elementos:
+    1. Nome da marca ou serviço
+        Escolha um nome criativo para a empresa, produto ou serviço.
+
+    2. Segmento da empresa
+        Defina em qual área a marca atua.
+        Exemplos de segmentos:
+            Tecnologia
+            Saúde
+            Alimentação
+            Educação
+            Moda
+            Esportes
+            Beleza
+            Sustentabilidade
+
+    3. Público-alvo
+        Explique quem são as pessoas que irão acessar a página ou utilizar o serviço.
+        Exemplos:
+            Jovens estudantes
+            Empresas
+            Atletas
+            Crianças
+            Pessoas que desejam emagrecer
+            Pequenos empreendedores
+
+    4. Proposta de valor
+        Descreva o diferencial da marca.
+        Pense na seguinte pergunta:
+        “O que torna essa marca especial ou diferente das outras?”
+        Exemplos:
+            Entrega mais rápida
+            Preço acessível
+            Atendimento personalizado
+            Produto sustentável
+            Plataforma simples e fácil de usar
+
+Etapa 2 — Pitch da Marca
+    Cada grupo deverá criar um pequeno texto apresentando sua ideia.
+    O pitch deve conter:
+        O nome da marca
+        O que ela oferece
+        Para quem ela foi criada
+        Seu principal diferencial
+        O texto deve ter entre 2 e 3 frases.
+    Exemplo de Pitch
+        A TechPro é uma empresa voltada para manutenção e venda de computadores para estudantes e pequenas empresas. Nosso diferencial é oferecer atendimento rápido e suporte online com preços acessíveis.
+
+Etapa 3 — Planejamento da Landing Page
+    A partir das informações criadas, o grupo deverá pensar em como será a estrutura da landing page.
+    A página deverá conter:
+        Nome e logo da marca
+        Título principal
+        Pequena descrição do serviço
+        Imagem ilustrativa
+        Botão de ação (Ex: “Saiba mais”, “Comprar agora”, “Entrar em contato”)
+        Informações de contato ou redes sociais
