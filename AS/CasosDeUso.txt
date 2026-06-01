@@ -1,0 +1,18 @@
+Atividade – Levantamento de Casos de Uso
+
+Sistema de Biblioteca Escolar
+A Escola Futuro decidiu informatizar sua biblioteca. Atualmente, todos os empréstimos de livros são feitos em papel, o que gera atrasos e dificuldades de controle.
+O novo sistema deverá permitir que os alunos consultem os livros disponíveis no acervo e realizem empréstimos. Os alunos também poderão devolver livros e consultar seu histórico de empréstimos.
+Os bibliotecários serão responsáveis por cadastrar novos livros, atualizar informações dos livros já existentes e remover livros que não façam mais parte do acervo. Além disso, eles poderão registrar empréstimos e devoluções realizados pelos alunos.
+O diretor da escola deseja acompanhar relatórios contendo informações sobre os livros mais emprestados e a quantidade de empréstimos realizados em determinado período.
+Para acessar o sistema, bibliotecários e diretores deverão realizar login com usuário e senha.
+
+Construção do Diagrama
+    Utilizando apenas associações simples:
+        Desenhe os atores identificados.
+        Desenhe os casos de uso encontrados.
+        Faça as associações entre atores e casos de uso.
+        Coloque todos os casos de uso dentro do limite do sistema ("Sistema de Biblioteca Escolar").
+
+DrawIo
+    Construa o diagrama no DrawIo.:
