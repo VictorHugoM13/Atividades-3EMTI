@@ -54,9 +54,9 @@ Atividades PHP — Looping foreach
 
     Crie um array com nomes de cidades e use foreach para contar quantos elementos existem no array.
 
-8. Multiplicar valores por 2
+8. Multiplicar valores por 3
 
-    Crie um array com números inteiros e use foreach para mostrar cada número multiplicado por 3.
+    Crie um array com números inteiros e use foreach para mostrar cada número multiplos por 3.
 
 9. Lista de alunos
 
