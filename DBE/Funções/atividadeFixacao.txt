@@ -1,0 +1,82 @@
+Atividades - Funções em PHP
+Parte 1 - Funções sem retorno
+1. Saudação
+
+Crie uma função chamada saudacao() que exiba a mensagem:
+
+Bem-vindo ao curso de PHP!
+
+Depois, chame a função.
+
+2. Exibir nome
+
+Crie uma função chamada mostrarNome() que receba um nome como parâmetro e exiba:
+
+Olá, João!
+
+(Substitua João pelo nome informado.)
+
+3. Exibir idade
+
+Crie uma função chamada mostrarIdade() que receba uma idade e exiba:
+
+Você tem 18 anos.
+
+4. Tabuada
+
+Crie uma função chamada tabuada() que receba um número e exiba sua tabuada de 1 a 10.
+
+Exemplo:
+
+5 x 1 = 5
+5 x 2 = 10
+...
+5 x 10 = 50
+
+5. Verificar maioridade
+
+Crie uma função chamada verificarMaioridade() que receba uma idade e exiba:
+
+"Maior de idade" se a idade for maior ou igual a 18.
+"Menor de idade" caso contrário.
+Parte 2 - Funções com retorno
+
+6. Soma de dois números
+
+Crie uma função chamada somar() que receba dois números e retorne a soma deles.
+
+Exemplo:
+
+$resultado = somar(5, 8);
+echo $resultado;
+
+7. Dobro de um número
+
+Crie uma função chamada dobro() que receba um número e retorne seu dobro.
+
+Exemplo:
+
+Entrada: 7
+Saída: 14
+
+8. Calcular média
+
+Crie uma função chamada calcularMedia() que receba três notas e retorne a média.
+
+9. Converter para maiúsculas
+
+Crie uma função chamada maiusculas() que receba uma palavra e retorne essa palavra em letras maiúsculas.
+
+Exemplo:
+
+php
+
+Retorna:
+
+PHP
+10. Verificar número par
+
+Crie uma função chamada ehPar() que receba um número e retorne:
+
+true se for par.
+false se for ímpar.
