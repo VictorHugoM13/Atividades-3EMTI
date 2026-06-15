@@ -1,0 +1,21 @@
+Atividade – Generalização de Atores em Diagramas de Casos de Uso
+
+Situação-Problema
+Uma escola utiliza um sistema para gerenciar suas atividades acadêmicas.
+Nesse sistema:
+Os alunos podem consultar notas, visualizar horários de aula e realizar matrícula em disciplinas.
+Os professores podem lançar notas, registrar frequência e consultar horários de aula.
+Os coordenadores podem realizar todas as atividades dos professores, além de cadastrar disciplinas e gerar relatórios acadêmicos.
+A equipe de desenvolvimento percebeu que professores e coordenadores possuem algumas funcionalidades em comum e deseja representar isso utilizando generalização de atores no diagrama de casos de uso.
+
+Desenho do Diagrama
+Desenhe o diagrama de casos de uso.
+Utilize a relação de generalização entre os atores.
+Represente corretamente quais casos de uso pertencem ao ator genérico e quais pertencem aos atores especializados.
+
+Desafio
+Adicione um novo ator chamado Diretor, que pode realizar todas as funções do Coordenador e também aprovar o calendário acadêmico da escola.
+Atualize o diagrama utilizando a generalização de atores.
+
+
+
