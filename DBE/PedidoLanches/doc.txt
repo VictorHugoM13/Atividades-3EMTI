@@ -1,0 +1,71 @@
+Projeto: Sistema de Pedido de Lanches
+
+Contexto
+    Uma lanchonete precisa de um sistema simples para registrar pedidos realizados pelos clientes.
+    O sistema deverá permitir que o usuário informe seu nome, escolha um lanche do cardápio e informe a quantidade desejada. Após o envio do formulário, o sistema deverá calcular o valor total do pedido e exibir um resumo da compra.
+
+Requisitos do Sistema
+
+1. Formulário
+    Crie um formulário contendo os seguintes campos:
+        Nome do cliente
+        Lanche escolhido
+        Quantidade desejada
+        Botão para enviar o pedido
+    O envio dos dados deve ser realizado utilizando o protocolo POST.
+
+2. Cardápio
+    Os preços dos lanches deverão ser armazenados em um array associativo.
+        Lanche => R$ 15,00
+        Hambúrguer => R$ 10,00
+        Hot Dog => R$ 10,00
+        Pizza => R$ 25,00
+        Pastel => R$ 8,00
+
+3. Função de Cálculo
+    Crie uma função chamada:
+        calcularTotal()
+    Esta função deverá receber:
+        preço do lanche
+        quantidade
+    E retornar:
+        preço × quantidade
+
+4. Função de Frete Grátis
+    Crie uma função chamada:
+        verificarFreteGratis()
+
+    Regras:
+        Pedidos com valor igual ou superior a R$ 50,00 possuem frete grátis.
+        Pedidos abaixo de R$ 50,00 não possuem frete grátis.
+        A função deverá retornar:
+        "Sim"
+        "Não"
+
+5. Processamento dos Dados
+    Após o envio do formulário:
+        Receber os dados utilizando o array $_POST.
+        Recuperar o preço do lanche escolhido através do array de preços.
+        Calcular o valor total utilizando a função criada.
+        Verificar o frete grátis utilizando a função criada.
+
+6. Exibição do Resultado
+    Ao final, exibir um resumo contendo:
+    Nome do cliente
+    Lanche escolhido
+    Preço unitário
+    Quantidade
+    Valor total do pedido
+    Possui frete grátis?
+
+Desafio Extra
+    Crie uma terceira função chamada:
+        calcularDesconto()
+
+        Regra:
+        Pedidos acima de R$ 100,00 recebem 10% de desconto.
+        Exibir:
+        Valor do desconto
+        Valor final após desconto
+
+
