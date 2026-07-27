@@ -1,0 +1,55 @@
+Planejamento do Currículo Profissional
+Objetivo: Preencha todas as informações abaixo. Elas serão utilizadas na elaboração do seu currículo profissional.
+
+1. Dados Pessoais
+Nome completo:
+Telefone:
+E-mail:
+Cidade/Estado:
+LinkedIn:
+GitHub:
+Portfólio ou site:
+
+2. Objetivo Profissional
+Área ou cargo desejado:
+
+3. Resumo Profissional
+Escreva um breve resumo sobre seu perfil profissional.
+
+4. Formação Acadêmica
+Curso:
+Instituição:
+Ano de início:
+Ano de conclusão (ou previsão):
+
+5. Experiência Profissional
+Empresa:
+Cargo:
+Período:
+Principais atividades:
+
+6. Projetos e Outras Experiências
+Nome do projeto ou atividade:
+Descrição:
+Tecnologias ou conhecimentos utilizados:
+
+7. Cursos Complementares
+Nome do curso:
+Instituição:
+Carga horária:
+
+8. Habilidades Técnicas (Hard Skills)
+
+9. Habilidades Comportamentais (Soft Skills)
+
+10. Idiomas
+Idioma:
+Nível:
+
+11. Informações Complementares
+Certificações:
+Participação em eventos:
+Premiações:
+Trabalho voluntário:
+Outras informações relevantes:
+
