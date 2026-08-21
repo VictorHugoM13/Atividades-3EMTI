@@ -1,0 +1,180 @@
+Atividades – POO: Herança em PHP
+1. Animal e Cachorro
+
+Crie uma classe Animal com o atributo:
+
+nome
+
+Crie um método emitirSom() dentro da classe Animal.
+
+Depois, crie uma classe Cachorro que herde de Animal usando extends.
+
+Na classe Cachorro, sobrescreva o método emitirSom() para exibir:
+
+O cachorro faz: Au Au!
+Tarefas:
+Criar a classe Animal.
+Criar o atributo nome.
+Criar o método emitirSom().
+Criar a classe Cachorro extends Animal.
+Sobrescrever o método emitirSom().
+Criar um método para apresentar os dados do cachorro, exibindo seu nome e seu som.
+Criar um objeto da classe Cachorro.
+Chamar o método de apresentação para exibir os dados.
+
+2. Pessoa e Aluno
+
+Crie uma classe Pessoa contendo os atributos:
+
+nome
+idade
+
+Depois, crie uma classe Aluno que herde de Pessoa e acrescente o atributo:
+
+curso
+
+Na classe Aluno, crie um método apresentar() responsável por apresentar todos os dados do aluno.
+
+O método deverá exibir informações semelhantes a:
+
+Nome: João
+Idade: 17
+Curso: Desenvolvimento de Sistemas
+Tarefas:
+Criar a classe Pessoa.
+Criar os atributos nome e idade.
+Criar a classe Aluno extends Pessoa.
+Acrescentar o atributo curso.
+Criar o método apresentar() dentro da classe Aluno.
+Fazer o método apresentar() exibir todos os dados do aluno.
+Criar um objeto Aluno.
+Chamar o método apresentar().
+
+
+3. Veículo e Carro
+
+Crie uma classe Veiculo com os atributos:
+
+marca
+modelo
+
+Depois, crie uma classe Carro que herde de Veiculo e acrescente o atributo:
+
+quantidadePortas
+
+Na classe Carro, crie um método exibirInformacoes() responsável por apresentar todos os dados do carro.
+
+O método deverá exibir:
+
+Marca: Volkswagen
+Modelo: Gol
+Portas: 4
+Tarefas:
+Criar a classe Veiculo.
+Criar os atributos marca e modelo.
+Criar a classe Carro extends Veiculo.
+Acrescentar o atributo quantidadePortas.
+Criar o método exibirInformacoes().
+Fazer o método exibir marca, modelo e quantidade de portas.
+Criar um objeto Carro.
+Chamar o método exibirInformacoes().
+
+4. Funcionário e Professor
+
+Crie uma classe Funcionario com os atributos:
+
+nome
+salario
+
+Depois, crie um método:
+
+public function apresentar()
+
+Esse método deverá apresentar os dados do funcionário, exibindo seu nome e salário.
+
+Em seguida, crie uma classe Professor que herde de Funcionario e acrescente o atributo:
+
+disciplina
+
+Na classe Professor, crie ou sobrescreva um método de apresentação para exibir todos os dados do professor.
+
+Exemplo:
+Nome: Maria
+Salário: R$ 3500
+Disciplina: Programação
+Tarefas:
+Criar a classe Funcionario.
+Criar os atributos nome e salario.
+Criar o método apresentar().
+Criar a classe Professor extends Funcionario.
+Acrescentar o atributo disciplina.
+Criar um método para apresentar todos os dados do professor.
+Criar um objeto Professor.
+Chamar o método de apresentação.
+5. Produto e ProdutoEletronico
+
+Crie uma classe Produto com os atributos:
+
+nome
+preco
+
+Depois, crie uma classe ProdutoEletronico que herde de Produto e acrescente o atributo:
+
+marca
+
+Na classe ProdutoEletronico, crie um método exibirInformacoes() para apresentar todos os dados do produto.
+
+Crie um objeto representando um celular.
+
+O resultado deverá ser semelhante a:
+
+Produto: Celular
+Preço: R$ 1200
+Marca: Samsung
+Tarefas:
+Criar a classe Produto.
+Criar os atributos nome e preco.
+Criar a classe ProdutoEletronico extends Produto.
+Acrescentar o atributo marca.
+Criar o método exibirInformacoes().
+Fazer o método apresentar nome, preço e marca.
+Criar um objeto ProdutoEletronico.
+Chamar o método de apresentação.
+6. Desafio – Conta e ContaPoupanca
+
+Crie uma classe Conta contendo os atributos:
+
+titular
+saldo
+
+Crie os métodos:
+
+depositar()
+sacar()
+
+O método depositar() deverá aumentar o saldo da conta.
+
+O método sacar() deverá diminuir o saldo da conta.
+
+Depois, crie uma classe ContaPoupanca que herde de Conta e acrescente o atributo:
+
+taxaRendimento
+
+Na classe ContaPoupanca, crie um método exibirInformacoes() para apresentar todos os dados da conta.
+
+Tarefas:
+Criar a classe Conta.
+Criar os atributos titular e saldo.
+Criar o método depositar().
+Criar o método sacar().
+Criar a classe ContaPoupanca extends Conta.
+Acrescentar o atributo taxaRendimento.
+Criar o método exibirInformacoes().
+Fazer um depósito na conta.
+Exibir os dados da conta após o depósito.
+Criar um objeto ContaPoupanca.
+Chamar o método exibirInformacoes().
+Exemplo de saída:
+Titular: Carlos
+Saldo: R$ 500
+Taxa de rendimento: 0.5%
