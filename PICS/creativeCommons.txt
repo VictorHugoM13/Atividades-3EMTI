@@ -8,7 +8,7 @@ Pesquisa – Tipos de Licenças de Conteúdo
         CC BY-ND
         CC BY-NC
         CC BY-NC-SA
-        CC BY-NC-NDF
+        CC BY-NC-ND
 
     Para cada tipo de licença, apresente o significado, o que pode ser feito com a obra e quais cuidados o usuário deve ter.
     Utilize fontes confiáveis e informe as fontes consultadas ao final da pesquisa.
