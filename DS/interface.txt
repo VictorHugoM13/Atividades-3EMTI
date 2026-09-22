@@ -1,0 +1,117 @@
+1. Sistema de Veículos
+
+    Crie uma interface chamada Veiculo com os métodos:
+
+        ligar()
+        acelerar($velocidade)
+        frear($velocidade)
+
+    Crie as classes:
+
+        Carro
+        Moto
+
+    Cada veículo deve possuir:
+
+        marca
+        modelo
+        velocidade
+    Regras:
+
+        ligar()
+
+        Deve alterar uma variável ligado para true.
+
+        acelerar($velocidade)
+
+        Só pode acelerar se o veículo estiver ligado.
+        Deve aumentar a velocidade.
+        A velocidade máxima do carro é 180 km/h.
+        A velocidade máxima da moto é 160 km/h.
+
+        frear($velocidade)
+
+        Deve diminuir a velocidade.
+        A velocidade nunca pode ficar abaixo de 0.
+
+    Exemplo:
+
+        Carro ligado.
+        Velocidade atual: 80 km/h
+        Velocidade atual: 120 km/h
+        Velocidade atual: 90 km/h
+
+2. Sistema de Funcionários
+
+    Crie uma interface chamada Funcionario com os métodos:
+
+        calcularSalario()
+        exibirDados()
+
+    Crie as classes:
+
+        Professor
+        Programador
+
+    Cada funcionário deve possuir:
+
+        nome
+        salarioBase
+        horasExtras
+
+    Regras:
+
+        O método calcularSalario() deverá calcular:
+
+            salário final = salário base + (horas extras × valor da hora extra)
+
+            Utilize valores diferentes para cada profissão.
+
+    Por exemplo:
+
+        Professor → hora extra = R$ 30
+        Programador → hora extra = R$ 50
+
+    O método exibirDados() deverá mostrar:
+
+        Nome: João
+        Cargo: Programador
+        Salário Base: R$ 3000
+        Horas Extras: 5
+        Salário Final: R$ 3250
+
+3. Sistema de Pagamentos
+
+    Crie uma interface chamada Pagamento com os métodos:
+
+        processarPagamento($valor)
+        calcularTaxa($valor)
+
+    Crie as classes:
+
+        Pix
+        Cartao
+
+    Regras:
+
+    Cada forma de pagamento terá uma taxa diferente:
+
+        Pix → 0%
+        Cartão → 3%
+
+    O método calcularTaxa() deverá calcular o valor da taxa.
+
+    Exemplo:
+
+        Valor: R$ 200
+        Taxa: R$ 6
+        Total: R$ 206
+
+    O método processarPagamento() deverá:
+
+        Calcular a taxa;
+        Somar a taxa ao valor;
+        Exibir o valor original;
+        Exibir a taxa;
+        Exibir o valor final.
+        
