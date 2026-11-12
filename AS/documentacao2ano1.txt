@@ -1,0 +1,87 @@
+DOCUMENTAÇÃO DO SISTEMA - MIRROR FASHION
+Versão: 1.0
+Status: Em desenvolvimento
+Tipo de sistema: Plataforma web de comércio eletrônico
+Área: Moda e vestuário
+
+Identificação e Visão Geral
+Identificação
+Nome do sistema: Mirror Fashion
+Descrição:
+A Mirror Fashion é uma plataforma web destinada à apresentação e comercialização de produtos do segmento de moda. O sistema disponibiliza informações institucionais, navegação por categorias e acesso aos produtos da loja.
+Objetivo
+O sistema tem como objetivo disponibilizar uma interface web para que clientes possam:
+conhecer a empresa;
+navegar pelas diferentes áreas do site;
+acessar informações institucionais;
+consultar a situação da sacola de compras;
+acessar recursos relacionados à conta e ao atendimento;
+Público-alvo
+O sistema é destinado a clientes interessados em produtos de moda comercializados pela Mirror Fashion.
+Visão geral da solução
+A aplicação é estruturada como um site web, organizado em diferentes áreas de interface.
+A estrutura principal é composta por:
+cabeçalho;
+identificação da empresa;
+menu de navegação;
+área de conteúdo;
+área de destaque;
+apresentação de produtos;
+rodapé;
+		A interface foi projetada para permitir que o usuário encontre as principais informações e áreas do sistema por meio da navegação principal.
+
+Requisitos Funcionais e Requisitos Não Funcionais
+Os requisitos definem as funcionalidades que o sistema deve oferecer e as características que devem ser observadas durante o desenvolvimento.
+Requisitos Funcionais
+Os requisitos funcionais descrevem as funcionalidades que o sistema deve disponibilizar ao usuário.
+Código
+Requisito
+RF01
+O sistema deve disponibilizar uma página inicial.
+RF02
+O sistema deve disponibilizar um menu de navegação.
+RF03
+O sistema deve permitir o acesso às informações institucionais da empresa.
+RF04
+O sistema deve disponibilizar uma página “Sobre”.
+RF05
+O sistema deve apresentar os produtos disponíveis.
+RF06
+O sistema deve disponibilizar uma área de loja.
+RF07
+O sistema deve apresentar a situação da sacola de compras.
+RF08
+O sistema deve disponibilizar o acesso à lista de desejos.
+RF09
+O sistema deve disponibilizar acesso à área da conta.
+RF010
+O sistema deve disponibilizar informações relacionadas ao programa de fidelidade.
+RF011
+O sistema deve disponibilizar uma área de ajuda.
+
+
+Requisitos Não Funcionais
+Os requisitos não funcionais definem características relacionadas à estrutura, organização, apresentação e manutenção do sistema.
+Código
+Requisito
+RNF01
+A interface deve utilizar HTML semântico para estruturar o conteúdo.
+RNF02
+A apresentação visual deve ser definida utilizando CSS.
+RNF03
+Os estilos devem ser organizados de forma reutilizável por meio de classes.
+RNF04
+A interface deve apresentar organização visual consistente entre duas diferentes áreas.
+RNF05
+As imagens utilizadas devem possuir descrição alternativa quando aplicável.
+RNF06
+Os arquivos do projeto devem permanecer organizados em diretórios de acordo com sua finalidade.
+
+
+
+Atores
+Os atores representam usuários ou entidades externas que interagem com o sistema.
+Cliente
+O cliente é o principal ator do sistema.
+Ele pode acessar a plataforma para consultar informações, navegar pelo conteúdo, visualizar produtos e utilizar recursos disponibilizados pela loja.
+
